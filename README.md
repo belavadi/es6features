@@ -57,6 +57,10 @@ var bob = {
 ```
 
 More info: [MDN Arrow Functions](https://developer.mozilla.org/en/docs/Web/JavaScript/Reference/Functions/Arrow_functions)
+Reference:
+[What is Obejct Oriented Programming](https://en.wikipedia.org/wiki/Constructor_(object-oriented_programming))-[JS](https://en.wikipedia.org/wiki/Constructor_(object-oriented_programming)#JavaScript)
+[ES5 Constructor](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Classes/constructor)
+[ES5 this](https://developer.mozilla.org/en/docs/Web/JavaScript/Reference/Operators/this)
 
 ### Classes
 ES6 classes are a simple sugar over the prototype-based OO pattern.  Having a single convenient declarative form makes class patterns easier to use, and encourages interoperability.  Classes support prototype-based inheritance, super calls, instance and static methods and constructors.
